@@ -25,7 +25,6 @@
             <title>part 1</title>
             <link>https://github.com/ownfeed/mp3/raw/master/odin-v-okeane-1.mp3</link>
             <pubDate>Mon, 04 Feb 2019 00:00:00 +0700</pubDate>
-            <guid isPermaLink="false">https://github.com/ownfeed/mp3/raw/master/odin-v-okeane-1.mp3</guid>
             <description>description</description>
             <content:encoded>content</content:encoded>
             <enclosure url="https://github.com/ownfeed/mp3/raw/master/odin-v-okeane-1.mp3" type="audio/mpeg" />
@@ -35,7 +34,7 @@
             <pubDate>Mon, 04 Feb 2019 00:00:00 +0700</pubDate>
             <description>description</description>
             <content:encoded>content</content:encoded>
-            <enclosure url="https://github.com/ownfeed/mp3/raw/master/odin-v-okeane-1.mp3" type="audio/mpeg" />
+            <enclosure url="https://github.com/ownfeed/mp3/raw/master/odin-v-okeane-2.mp3" type="audio/mpeg" />
            </item>
            <item>
             <title>part 3</title>
