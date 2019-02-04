@@ -24,21 +24,21 @@
           <item>
             <title>part 1</title>
             <link>https://github.com/ownfeed/mp3/raw/master/odin-v-okeane-1.mp3</link>
-            <pubDate>Mon, 04 Feb 2019 00:00:00 +0700</pubDate>
+            <pubDate>Mon, 01 Feb 2019 00:00:00 +0700</pubDate>
             <description>description</description>
             <content:encoded>content</content:encoded>
             <enclosure url="https://github.com/ownfeed/mp3/raw/master/odin-v-okeane-1.mp3" type="audio/mpeg" />
            </item>
            <item>
             <title>part 2</title>
-            <pubDate>Mon, 04 Feb 2019 00:00:00 +0700</pubDate>
+            <pubDate>Mon, 02 Feb 2019 00:00:00 +0700</pubDate>
             <description>description</description>
             <content:encoded>content</content:encoded>
             <enclosure url="https://github.com/ownfeed/mp3/raw/master/odin-v-okeane-2.mp3" type="audio/mpeg" />
            </item>
            <item>
             <title>part 3</title>
-            <pubDate>Mon, 04 Feb 2019 00:00:00 +0700</pubDate>
+            <pubDate>Mon, 03 Feb 2019 00:00:00 +0700</pubDate>
             <description>description</description>
             <content:encoded>content</content:encoded>
             <enclosure url="https://github.com/ownfeed/mp3/raw/master/odin-v-okeane-3.mp3" type="audio/mpeg" />
@@ -52,7 +52,7 @@
            </item>
            <item>
             <title>part 5</title>
-            <pubDate>Mon, 04 Feb 2019 00:00:00 +0700</pubDate>
+            <pubDate>Mon, 05 Feb 2019 00:00:00 +0700</pubDate>
             <description>description</description>
             <content:encoded>content</content:encoded>
             <enclosure url="https://github.com/ownfeed/mp3/raw/master/odin-v-okeane-5.mp3" type="audio/mpeg" />
