@@ -1,18 +1,54 @@
-<?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-  <id>github:ownfeed</id>
-  <title>ownfeed</title>
-  <icon>https://www.github.com/favicon.ico</icon>
-  <link href="https://github.com/ownfeed/mp3/raw/master/feed.xml" rel="self" />
-  <link href="https://github.com/ownfeed/mp3/raw/master/feed.xml" rel="alternate" />
-  <updated>2019-02-04T16:43:23Z</updated>
+<?xml version="1.0"
+      encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:bitlove="http://bitlove.org"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:psc="http://podlove.org/simple-chapters"
+     version="2.0">
 
-  <entry>
-    <id>github:track:один-в-океане-слава-курилов</id>
-    <title>[6:53:41] Один в океане - Слава Курилов</title>
-    <link href="https://github.com/ownfeed/mp3/raw/master/odin-v-okeane-1.mp3" />
-    <updated>2019-02-04T16:43:23Z</updated>
-    <author><name>ownfeed</name></author>
-    <content type="html">Один в океане - Слава Курилов</content>
-  </entry>
-</feed>
+  <channel>
+    <title>ownfeed</title>
+    <link>https://github.com/ownfeed</link>
+    <atom:link href="https://github.com/ownfeed/mp3/raw/master/feed.xml" rel="self" type="application/rss+xml" title="mp3 Episode RSS-Feed"/>
+    <atom:link href="https://github.com/ownfeed/mp3/raw/master/feed.xml" rel="first" type="application/rss+xml" />
+    <atom:link href="https://github.com/ownfeed/mp3/raw/master/feed.xml" rel="last" type="application/rss+xml" />
+    
+    <description>ÐŸÐ¾Ð´ÐºÐ°ÑÑ‚ Ð¾ Ð¿Ñ€Ð°ÐºÑ‚Ð¸ÐºÐµ Ð¿Ñ€Ð¾Ð³Ñ€Ð°Ð¼Ð¼Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¸Ñ
+</description>
+    <lastBuildDate>Mon, 04 Feb 2019 12:37:43 +0700</lastBuildDate>
+    <language>ru</language>
+    <generator>Jekyll-Octopod 0.9.9</generator>
+
+   
+    <managingEditor>Own feed</managingEditor>
+    <copyright>NN</copyright>
+   
+    
+    <itunes:category text="Technology" />
+    
+          <item>
+            <title>part 1</title>
+            <link>https://github.com/ownfeed/mp3/raw/master/odin-v-okeane-1.mp3</link>
+            <pubDate>Mon, 04 Feb 2019 00:00:00 +0700</pubDate>
+            
+            <guid isPermaLink="false">https://github.com/ownfeed/mp3/raw/master/odin-v-okeane-1.mp3</guid>
+            <description>description</description>
+            <content:encoded>content</content:encoded>
+            
+            <enclosure url="https://github.com/ownfeed/mp3/raw/master/odin-v-okeane-1.mp3" type="audio/mpeg" />
+            
+            
+          </item>
+        
+      
+    
+      
+        
+        
+          
+        
+      
+    
+  </channel>
+</rss>
